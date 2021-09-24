@@ -62,7 +62,7 @@ class SearchVC: UIViewController {
             logoImageView.widthAnchor.constraint(equalToConstant: 200)
             
         ])
-    }
+    } 
     
     func configureTextField() {
         view.addSubview(usernameTextField)
