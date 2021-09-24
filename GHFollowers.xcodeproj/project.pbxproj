@@ -82,7 +82,6 @@
 		62324DCC26ACB61700DE18A7 /* GHFollowers */ = {
 			isa = PBXGroup;
 			children = (
-				625A100826F9B667000AA174 /* New Group */,
 				625A100726F89BF2000AA174 /* Utilities */,
 				625A100426F46A76000AA174 /* Managers */,
 				625A0FFA26F065B0000AA174 /* Custom Views */,
@@ -161,13 +160,6 @@
 				625A100526F89BED000AA174 /* ErrorMessage.swift */,
 			);
 			name = Utilities;
-			sourceTree = "<group>";
-		};
-		625A100826F9B667000AA174 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "New Group";
 			sourceTree = "<group>";
 		};
 		625A100926F9B66E000AA174 /* Cells */ = {
